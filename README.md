@@ -178,11 +178,3 @@ Run order: `generate_data.py` → `forecast_model.py` → `scenario_simulation.p
 Regression), matplotlib.
 
 ---
-
-## Suggested resume bullets
-
-**Airline Demand Forecasting & Revenue Optimization Simulator**
-- Built an end-to-end demand forecasting and pricing simulation pipeline across 5 long-haul routes, combining a Gradient Boosting model (season/trend/promo) with econometric price-elasticity estimation to decompose baseline demand from price sensitivity.
-- Achieved 8.8% MAPE on a 90-day holdout, a 17.5% error reduction versus a naive baseline, validated against feature importances aligned with known demand drivers.
-- Estimated per-route price elasticity via log-log regression, recovering ground-truth elasticity within ±0.05 across all routes, and used it to model revenue-maximizing fare adjustments per route.
-- Simulated a 14-day demand-shock contingency scenario, quantifying that a modelled fare-cut response recovered 33% of at-risk revenue versus taking no action — supporting proactive, scenario-based pricing decisions.
