@@ -29,7 +29,7 @@ This project builds a small pipeline that answers all three.
 
 ## 2. Data
 
-Synthetic daily data for 5 Emirates-style long-haul routes (DXB–LHR,
+Synthetic daily data for 5 long-haul routes (DXB–LHR,
 DXB–JFK, DXB–BOM, DXB–SYD, DXB–BKK), Jan 2024 – Dec 2025 (3,650 rows).
 
 Each route has:
